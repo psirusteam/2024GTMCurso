@@ -1,4 +1,4 @@
-# Material y agenda del curso:
+# Material y agenda del curso :
 
 | Horario       | Martes 3                                                                                                                                                            | Miércoles 4                                                                                                                                                                             | Jueves 5                                           |
 |---------------|--------------------|-------------------|--------------------|
